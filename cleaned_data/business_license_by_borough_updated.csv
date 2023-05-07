@@ -1,0 +1,199 @@
+,Year,Borough,Opened Licenses
+0,1977,Brooklyn,1
+1,1977,Queens,1
+2,1981,Manhattan,1
+3,1982,Brooklyn,1
+4,1983,Queens,1
+5,1984,Manhattan,1
+6,1984,Brooklyn,1
+7,1985,Queens,2
+8,1985,Staten Island,1
+9,1985,Manhattan,1
+10,1986,Brooklyn,4
+11,1986,Bronx,1
+12,1986,Queens,1
+13,1986,Staten Island,2
+14,1986,Manhattan,2
+15,1987,Queens,3
+16,1987,Manhattan,6
+17,1987,Brooklyn,3
+18,1988,Bronx,3
+19,1988,Brooklyn,7
+20,1988,Staten Island,1
+21,1988,Manhattan,7
+22,1988,Queens,5
+23,1989,Queens,9
+24,1989,Staten Island,1
+25,1989,Manhattan,7
+26,1989,Brooklyn,6
+27,1989,Bronx,2
+28,1990,Manhattan,10
+29,1990,Queens,5
+30,1990,Brooklyn,3
+31,1990,Bronx,2
+32,1990,Staten Island,2
+33,1991,Bronx,5
+34,1991,Brooklyn,6
+35,1991,Staten Island,3
+36,1991,Manhattan,5
+37,1991,Queens,6
+38,1992,Queens,6
+39,1992,Brooklyn,5
+40,1992,Staten Island,2
+41,1992,Bronx,3
+42,1992,Manhattan,12
+43,1993,Queens,10
+44,1993,Manhattan,10
+45,1993,Staten Island,4
+46,1993,Brooklyn,18
+47,1993,Bronx,2
+48,1994,Staten Island,75
+49,1994,Bronx,74
+50,1994,Manhattan,355
+51,1994,Queens,288
+52,1994,Brooklyn,250
+53,1995,Manhattan,500
+54,1995,Brooklyn,453
+55,1995,Queens,463
+56,1995,Staten Island,109
+57,1995,Bronx,156
+58,1996,Bronx,169
+59,1996,Queens,568
+60,1996,Manhattan,630
+61,1996,Brooklyn,510
+62,1996,Staten Island,117
+63,1997,Staten Island,145
+64,1997,Brooklyn,700
+65,1997,Manhattan,905
+66,1997,Queens,633
+67,1997,Bronx,289
+68,1998,Manhattan,532
+69,1998,Queens,669
+70,1998,Brooklyn,713
+71,1998,Bronx,240
+72,1998,Staten Island,179
+73,1999,Queens,672
+74,1999,Manhattan,630
+75,1999,Staten Island,191
+76,1999,Bronx,304
+77,1999,Brooklyn,768
+78,2000,Staten Island,430
+79,2000,Bronx,1071
+80,2000,Queens,1998
+81,2000,Manhattan,2113
+82,2000,Brooklyn,2432
+83,2001,Staten Island,335
+84,2001,Queens,1604
+85,2001,Brooklyn,1940
+86,2001,Bronx,849
+87,2001,Manhattan,1595
+88,2002,Brooklyn,2727
+89,2002,Bronx,1019
+90,2002,Staten Island,753
+91,2002,Manhattan,1751
+92,2002,Queens,2605
+93,2003,Manhattan,2583
+94,2003,Staten Island,898
+95,2003,Queens,3397
+96,2003,Bronx,1752
+97,2003,Brooklyn,3616
+98,2004,Bronx,1483
+99,2004,Staten Island,630
+100,2004,Queens,2628
+101,2004,Manhattan,2290
+102,2004,Brooklyn,2851
+103,2005,Bronx,1510
+104,2005,Staten Island,658
+105,2005,Manhattan,2352
+106,2005,Brooklyn,2887
+107,2005,Queens,2901
+108,2006,Brooklyn,3547
+109,2006,Staten Island,636
+110,2006,Manhattan,3019
+111,2006,Bronx,1842
+112,2006,Queens,3342
+113,2007,Brooklyn,3451
+114,2007,Queens,3322
+115,2007,Bronx,1549
+116,2007,Staten Island,838
+117,2007,Manhattan,2237
+118,2008,Brooklyn,3141
+119,2008,Manhattan,2002
+120,2008,Queens,3122
+121,2008,Staten Island,861
+122,2008,Bronx,1517
+123,2009,Manhattan,2417
+124,2009,Queens,3238
+125,2009,Brooklyn,3378
+126,2009,Staten Island,720
+127,2009,Bronx,1605
+128,2010,Manhattan,2393
+129,2010,Bronx,1720
+130,2010,Queens,3030
+131,2010,Staten Island,666
+132,2010,Brooklyn,3503
+133,2011,Brooklyn,3699
+134,2011,Queens,3394
+135,2011,Manhattan,2371
+136,2011,Staten Island,731
+137,2011,Bronx,1712
+138,2012,Staten Island,830
+139,2012,Bronx,1812
+140,2012,Brooklyn,3804
+141,2012,Queens,3512
+142,2012,Manhattan,2393
+143,2013,Queens,3461
+144,2013,Bronx,1785
+145,2013,Brooklyn,3589
+146,2013,Staten Island,805
+147,2013,Manhattan,2250
+148,2014,Queens,2878
+149,2014,Brooklyn,3115
+150,2014,Staten Island,596
+151,2014,Bronx,1502
+152,2014,Manhattan,2061
+153,2015,Queens,2997
+154,2015,Brooklyn,3115
+155,2015,Staten Island,723
+156,2015,Manhattan,1978
+157,2015,Bronx,1712
+158,2016,Brooklyn,2961
+159,2016,Queens,2828
+160,2016,Manhattan,1992
+161,2016,Staten Island,546
+162,2016,Bronx,1920
+163,2017,Queens,3581
+164,2017,Brooklyn,3825
+165,2017,Manhattan,2644
+166,2017,Bronx,1912
+167,2017,Staten Island,731
+168,2018,Manhattan,2785
+169,2018,Queens,3337
+170,2018,Bronx,1876
+171,2018,Brooklyn,3603
+172,2018,Staten Island,751
+173,2019,Staten Island,464
+174,2019,Brooklyn,2312
+175,2019,Manhattan,1570
+176,2019,Queens,2373
+177,2019,Bronx,1313
+178,2020,Staten Island,217
+179,2020,Brooklyn,986
+180,2020,Bronx,453
+181,2020,Queens,948
+182,2020,Manhattan,609
+183,2021,Manhattan,695
+184,2021,Staten Island,247
+185,2021,Queens,1286
+186,2021,Brooklyn,1250
+187,2021,Bronx,663
+188,2022,Staten Island,263
+189,2022,Brooklyn,1462
+190,2022,Queens,1224
+191,2022,Bronx,715
+192,2022,Manhattan,820
+193,2023,Staten Island,77
+194,2023,Manhattan,216
+195,2023,Brooklyn,433
+196,2023,Bronx,246
+197,2023,Queens,366
