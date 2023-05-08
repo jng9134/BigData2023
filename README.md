@@ -7,7 +7,7 @@ The data used in this repository is taken from various sources and is stored in 
 
 Cleaned data is stored in ```/cleaned_data/``` folder.
 # How to Run
-Python 3.10 or above required
+Required files not in repository will be described in notebook, they should be stored in ```/data/```
 
 To install requirements:
 
