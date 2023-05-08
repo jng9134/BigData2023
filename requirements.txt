@@ -1,0 +1,6 @@
+numpy==1.24.3
+pandas==2.0.1
+pyspark==3.4.0
+notebook==6.5.1
+matplotlib==3.7.1
+seaborn==0.12.2
