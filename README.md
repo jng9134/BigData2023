@@ -2,6 +2,7 @@
 
 Code Repository for Big Data Final Project
 
+Code tested on Windows 10 machine with Ryzen 2700x, 16GB RAM, and 3060ti
 # Data
 The data used in this repository is taken from various sources and is stored in the ```/data/``` folder
 
